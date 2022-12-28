@@ -1,0 +1,1 @@
+ID=3, Name=G15 Acer 15", Price=3500000

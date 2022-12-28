@@ -1,0 +1,1 @@
+ID=6, Name=Duo Acer 12.5", Price=18000000

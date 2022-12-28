@@ -1,0 +1,1 @@
+ID=1, Name=Macbook HP 17.3", Price=18000000
